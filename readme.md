@@ -1,6 +1,6 @@
 # Open Source Confusers
 
-A list of people/groups that are bringing confusion to Open Source.
+A list of cases where open source licenses are misrepresented or where "Open Source" is used in a non-[open-source-definition](https://opensource.org/osd) adhering manner.
 
 - [Skip to the list](#the-list)
 - [Historical cases](historical.md)
@@ -9,11 +9,11 @@ A list of people/groups that are bringing confusion to Open Source.
 
 After getting involved in Open Source I've noticed people misrepresenting their licenses or using the term "Open Source" while using a license which does not meet the commonly understood [definition](https://opensource.org/osd). Of course people are free to use words however they want, but most cases I see this occur are those that would bring benefit to the author while propagating confusion of the Open Source term and licencing, and eroding the efforts made by many other to contribute and build the reputation of Open Source.
 
-This page lists such cases in an attempt to highlight & call-out confusion being propagated, while providing a resource to learn from in regards to where confusion may commonly lie. 
+This page lists such cases in an attempt to document scenarios where confusion may be being propagated and provide a resource to learn from in regards to where confusion may commonly lie. 
 
 Many will see this as pedantic gatekeeping, which it may be from a certain perspective, but I see this as protecting & advocating for the wonderful ideal that is Open Source.
 
-**Note:** Please don't harass or be negative to the people & groups in this list, or their communities. This is meant as a peaceful call-out only, any intent to be harmful is strongly out of order and counter-intuitive to a productive discussion.
+**Note:** Please don't harass or be negative to the people & groups in this list, or their communities. This is meant as a peaceful process only, any intent to be harmful is strongly out of order and counter-intuitive to a productive discussion.
 
 ## Scope
 
