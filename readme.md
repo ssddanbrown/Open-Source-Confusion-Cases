@@ -2,7 +2,8 @@
 
 A list of people/groups that are bringing confusion to Open Source.
 
-[Skip to the list](#the-list)
+- [Skip to the list](#the-list)
+- [Historical cases](historical.md)
 
 ## History & Purpose
 
