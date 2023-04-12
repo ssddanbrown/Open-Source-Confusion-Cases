@@ -1,4 +1,4 @@
-# Open Source Confusers
+# Open Source Confusion Cases
 
 A list of cases where open source licenses are misrepresented or where "Open Source" is used in a non-[open-source-definition](https://opensource.org/osd) adhering manner.
 
@@ -100,7 +100,7 @@ Edit: Runa [continue to push](https://twitter.com/ssddanbrown/status/16208556086
 
 ### Uptrace
 
-[Uptrace] is an APM tool that markets itself as [Open Source](https://github.com/uptrace/uptrace/blob/8a5a11e592e46f7def3e14b9cd21318c4d9c35d5/README.md) while using a [BSL license](https://github.com/uptrace/uptrace/blob/8a5a11e592e46f7def3e14b9cd21318c4d9c35d5/LICENSE) that has not yet passed its change date for any past version. The license prevents certain commercial usages, specifically: 
+[Uptrace](https://uptrace.dev/) is an APM tool that markets itself as [Open Source](https://github.com/uptrace/uptrace/blob/8a5a11e592e46f7def3e14b9cd21318c4d9c35d5/README.md) while using a [BSL license](https://github.com/uptrace/uptrace/blob/8a5a11e592e46f7def3e14b9cd21318c4d9c35d5/LICENSE) that has not yet passed its change date for any past version. The license prevents certain commercial usages, specifically: 
 
 > ... may not use the Licensed Work for a Tracing and Metrics Service.
 
