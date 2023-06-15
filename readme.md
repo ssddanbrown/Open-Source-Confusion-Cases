@@ -4,6 +4,7 @@ A list of cases where open source licenses are misrepresented or where "Open Sou
 
 - [Skip to the list](#the-list)
 - [Historical cases](historical.md)
+- [Addressed cases](addressed.md)
 
 ## History & Purpose
 
