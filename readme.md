@@ -55,6 +55,8 @@ I [queried the license](files/diffgram-slack-license-query-thread.png) on the Di
 
 I [queried the license on GitHub](https://github.com/openreplay/openreplay/discussions/656). No direct response or confirmation was provided regarding the use of "Open Source". They did confirm to another user that they did indeed announce the license change (from MIT) 7 minutes into a monthly community call video, albeit not on their newsletter or releases page at the time.
 
+I later found I was [blocked from their organization on GitHub](files/openreplay-blocked-github.png), with the reason stated (link from the GitHub message) being that discussion thread I opened.
+
 ### Cal.com
 
 The [Cal.com](https://cal.com/) project on GitHub is licensed as AGPLv3. Within [the readme](https://github.com/calcom/cal.com/blob/58c4c894fd48d1b299d89e5fc9e1677f3b690bb8/README.md?plain=1#L100) is, what I believe to be, a misrepresentation of the AGPLv3 in the interest of pointing people to commercial licenses. The first item of the development setup details the following: 
