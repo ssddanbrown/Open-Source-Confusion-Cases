@@ -1,15 +1,12 @@
 # Addressed Cases
 
-This page lists cases that were raised with the project authors, but soon addressed upon notification.
-This list is retained as positive examples of projects/authors that are understanding and receptive to feedback.
+This page lists cases that have previously fit into the scope but were addressed at some stage.
 
-### Helicone
+- [n8n](./addressed/n8n.md) - Advertised as open source under multiple source-available licenses
 
-[Helicone](https://github.com/Helicone/helicone) advertised their project as open source via multiple sources including their repo, hacker news, and their website, but the project was under the commons clause.
-When [this was raised](https://github.com/Helicone/helicone/discussions/165) they were understanding and quickly reverted back to an Apache 2.0 License.
+### Addressed on Notification
 
-### Easy Redmine
+The below list are projects that were addressed upon, or soon after, communication with the project to highlight the potential confusion. These typically wouldn't meet the third scope criteria (purposefully continue confusion after being advised) but they are listed here to highlight positive responses.
 
-[Easyredmine](https://www.easyredmine.com/) advertised themselves as "100% Open source" [on their homepage](files/easy-redmine-home.png), while [their FAQ page](files/easy-redmine-faq.png) specifically advised certain assets are not provided under GPL but instead under a proprietary license. 
-
-I [emailed them](files/easy-readmine-email.png) about this misleading statement. While I did not get a response, the homepage was updated in the weeks after.
+- [Easy Redmine](./addressed/easy-redmine.md) - Mis-advertised as "100% open source"
+- [Helicone](./addressed/helicone.md) - Advertised as open source under the commons clause
