@@ -3,6 +3,7 @@
 This page lists cases that have previously fit into the scope but were addressed at some stage.
 
 - [n8n](./addressed/n8n.md) - Advertised as open source under multiple source-available licenses
+- [Uptrace](./addressed/uptrace.md) - Advertised as open source under the BUSL license
 
 ### Addressed on Notification
 

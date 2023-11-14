@@ -53,4 +53,3 @@ Much of this list is of my ([Dan Brown](https://github.com/ssddanbrown/)) opinio
 - [OpenReplay](./cases/openreplay.md) - Advertises as open source under ELv2
 - [Rock RMS](./cases/rock-rms.md) - Limits use and distribution audience 
 - [Runa Capital](./cases/runa-capital.md) - Misrepresents projects as open source for marketing
-- [Uptrace](./cases/uptrace.md) - Advertises as open source under BUSL
