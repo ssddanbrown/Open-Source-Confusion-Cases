@@ -1,5 +1,11 @@
 # Uptrace
 
+### Addressing
+
+Uptrace [changed their license](https://github.com/uptrace/uptrace/commit/896e2011ea96e25818a9aa9c9e2cf0370b3ceeb7#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5) to the AGPLv3 in October 2023.
+
+### Original Case
+
 [Uptrace](https://uptrace.dev/) is an APM tool that markets itself as [Open Source](https://github.com/uptrace/uptrace/blob/8a5a11e592e46f7def3e14b9cd21318c4d9c35d5/README.md) while using a [BUSL license](https://github.com/uptrace/uptrace/blob/8a5a11e592e46f7def3e14b9cd21318c4d9c35d5/LICENSE) that has not yet passed its change date for any past version. The license prevents certain commercial usages, specifically: 
 
 > ... may not use the Licensed Work for a Tracing and Metrics Service.
@@ -13,7 +19,3 @@ The project also doubles down on their usage by [stating the following](https://
 
 > Are you open-source?
 > Technically, the BSL license is classified as source-available, but we will continue to use the term open-source on the basis that the source code is open. Our competitors do the same.
-
-### Addressing
-
-Uptrace [changed their license](https://github.com/uptrace/uptrace/commit/896e2011ea96e25818a9aa9c9e2cf0370b3ceeb7#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5) to the AGPLv3 in October 2023.
