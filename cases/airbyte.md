@@ -3,6 +3,7 @@
 [Airbyte](https://airbyte.com/) is an "ELT" (Extract, Load, Transform) data platform which they [advertise as being open source](../files/airbyte-open-source-page.png). The project codebase [is mixed license](https://github.com/airbytehq/airbyte/blob/9adb35e643cfb2816915e11b5869ecfb654242d4/LICENSE) with many "connector" or integration elements using the MIT License, but otherwise the project defaults to the "Elastic License 2.0". The license prevents:
 
 - Provision to third parties as a hosting or managed service.
+- Modification/circumvention of any license key mechanisms.
 
 This was a [change they made](https://github.com/airbytehq/airbyte/commit/f25542a145f2890105f0db5b0ec99c43c207ba09) back in 2021.
 
