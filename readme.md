@@ -16,8 +16,6 @@ This page lists such cases in an attempt to document scenarios where confusion m
 
 Many will see this as pedantic gate-keeping, which it may be from a certain perspective, but I see this as protecting & advocating for the wonderful ideal that is Open Source.
 
-**Note:** Please don't harass or be negative to the people & groups in this list, or their communities. This is meant as a peaceful process only, any intent to be harmful is strongly out of order and counter-intuitive to a productive discussion.
-
 </details>
 
 <details>
@@ -43,6 +41,8 @@ Feel free to raise an issue if you think any information within this repo/list i
 ## Disclaimer
 
 Much of this list is of my ([Dan Brown](https://github.com/ssddanbrown/)) opinion. I am not a lawyer in any way, nor an expert of the law, and I may make mistakes. I am a maintainer and contributor of Open Source projects, I have a strong opinion of Open Source, and an argument could be made that I benefit from preventing the confusion I am looking to point out.
+
+**Note:** Please don't harass or be negative to the people & groups in this list, or their communities. This is meant as a peaceful process only, any intent to be harmful is strongly out of order and counter-intuitive to a productive discussion.
 
 ## The List
 
