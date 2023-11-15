@@ -47,6 +47,7 @@ Much of this list is of my ([Dan Brown](https://github.com/ssddanbrown/)) opinio
 ## The List
 
 - [Airbyte](./cases/airbyte.md) - Advertises as open source under ELv2
+- [Bitwarden - Passwordless](./cases/bitwarden-passwordless.md) - Advertises as open source under proprietary license.
 - [Cal.com](./cases/cal-com.md) - Misrepresents AGPLv3
 - [Diffgram](./cases/diffgram.md) - Advertises as open source under a custom license preventing many freedoms
 - [Erxes](./cases/erxes.md) - Adds additional use limitation to AGPLv3
