@@ -9,6 +9,6 @@ This page lists cases that have previously fit into the scope but were addressed
 
 The below list are projects that were addressed upon, or soon after, communication with the project to highlight the potential confusion. These typically wouldn't meet the third scope criteria (purposefully continue confusion after being advised) but they are listed here to highlight positive responses.
 
-- [Codeconv](./addressed/codeconv.md) - Advertised as open source under the BUSL 1.1 license.
+- [Codecov](./addressed/codecov.md) - Advertised as open source under the BUSL 1.1 license.
 - [Easy Redmine](./addressed/easy-redmine.md) - Mis-advertised as "100% open source"
 - [Helicone](./addressed/helicone.md) - Advertised as open source under the commons clause
