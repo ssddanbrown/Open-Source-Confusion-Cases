@@ -26,9 +26,23 @@ In addition to the above, there seems to be a common tune of Sentry (or individu
 > We are committed to improving the conversation around this topic, around ensuring open source can be both sustainable and protected.
 > [ref](https://blog.sentry.io/lets-talk-about-open-source/)
 
+> The only way for businesses to release their core products under OSI-approved licenses is through a time delay such as the BSL.
+> [...]
+> I'll concede that this is an evolution or refinement of the definition of open source, but not a change to the essence.
+> [ref](https://news.ycombinator.com/item?id=36972936) (HN comment by Sentry Head of Open Source)
+
+> [...], and if in your view that is a change in the essence of open source, then yes, let's change open source. Change or die.
+> [ref](https://news.ycombinator.com/item?id=36973188) (HN comment by Sentry Head of Open Source)
+
+> I created the Sentry project, am the CTO, and represent one of the strongest voices in our company for why this opinion of open source must change or open source will continue to be unsustainable.
+> [...]
+> We need to evolve our irrational views of idealism and find common ground that allows sustainability if we want open source to thrive.
+> [ref](https://news.ycombinator.com/item?id=36972824) (HN comment by Sentry CTO & Creator)
+
 > I believe this situation reaffirms my belief that licenses like our FSL [...] are a viable alternative, even though they are not considered Open Source by today's definition.
 > [...]
 > The world around us is changing, and so must we as the Open Source community. 
-> [ref](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/) (Sentry Director of Engineering)
+> [ref](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/) (Blog from Sentry Director of Engineering)
+
 
 That said, Chad Whitacre (Head of Open Source at Sentry) has been very receptive to [feedback and input](https://github.com/getsentry/fsl.software/issues/10) in conversations around how they portray their FSL license relative to open source. The current work may help define better define that zone adjacent to open source.
