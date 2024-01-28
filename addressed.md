@@ -12,3 +12,4 @@ The below list are projects that were addressed upon, or soon after, communicati
 - [Codecov](./addressed/codecov.md) - Advertised as open source under the BUSL 1.1 license
 - [Easy Redmine](./addressed/easy-redmine.md) - Mis-advertised as "100% open source"
 - [Helicone](./addressed/helicone.md) - Advertised as open source under the commons clause
+- [Metabase](./addressed/metabase.md) - Mis-communicated the copyleft nature of the AGPL
