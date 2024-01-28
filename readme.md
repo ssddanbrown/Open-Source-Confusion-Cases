@@ -51,6 +51,7 @@ Much of this list is of my ([Dan Brown](https://github.com/ssddanbrown/)) opinio
 - [Cal.com](./cases/cal-com.md) - Misrepresents AGPLv3
 - [Diffgram](./cases/diffgram.md) - Advertises as open source under a custom license preventing many freedoms
 - [Erxes](./cases/erxes.md) - Adds additional use limitation to AGPLv3
+- [Nango](./cases/nango.md) - Advertises as open source under ELv2
 - [OpenReplay](./cases/openreplay.md) - Advertises as open source under ELv2
 - [Rock RMS](./cases/rock-rms.md) - Limits use and distribution audience 
 - [Runa Capital](./cases/runa-capital.md) - Misrepresents projects as open source for marketing
