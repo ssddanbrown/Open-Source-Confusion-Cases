@@ -7,3 +7,8 @@ The [Cal.com](https://cal.com/) project on GitHub is licensed as AGPLv3. Within 
 As far as I can tell, nothing within the AGPLv3 requires the source code to be kept public (unless publicly distributing) and nothing prevents code being cloned in a private repository.
 
 I discovered this after a Redditor had shared their project with a similar confused statement, believing the AGPLv3 worked in this way, after using the cal.com repo for reference. I [queried this](../files/cal-com-license-slack.png) on the project's slack chat but things got stuck in a loop. After a post of mine, containing this license interpretation example, was [posted on Hacker News](https://news.ycombinator.com/item?id=31897648) the cofounder of cal.com [responded with some further insight](../files/cal-com-agpl3-hn-comments.png) and updated the readme wording to the line posted above, which is perhaps more confusing than it was before.
+
+In addition to the above, it's unlikely the application can be used via open source code alone, without making significant modifications. I experienced this when attempting to build myself, but this is also confirmed [via this GitHub issue](https://github.com/calcom/cal.com/issues/13575) where a project member states:
+
+> The EE folder is not meant to be removed. The license specifies on not using code from it. This decision was also made to avoid spending resources on having to develop and maintain two separate codebases.
+> So as far a you don't actively use enterprise features you would still be honoring the license.
