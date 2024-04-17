@@ -12,3 +12,5 @@ In addition to the above, it's unlikely the application can be used via open sou
 
 > The EE folder is not meant to be removed. The license specifies on not using code from it. This decision was also made to avoid spending resources on having to develop and maintain two separate codebases.
 > So as far a you don't actively use enterprise features you would still be honoring the license.
+
+When I posted my concerns earlier [on a Reddit thread](https://www.reddit.com/r/selfhosted/comments/11e3fh9/calcom_selfhostable_opensource_scheduling_high/) the founder [did later comment](https://www.reddit.com/r/selfhosted/comments/11e3fh9/comment/javblop/) but with nothing to dispute what I had said, only really justification.
