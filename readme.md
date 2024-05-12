@@ -46,16 +46,17 @@ Much of this list is of my ([Dan Brown](https://github.com/ssddanbrown/)) opinio
 
 ## The List
 
-- [Airbyte](./cases/airbyte.md) - Advertises as open source under ELv2
-- [APITable](./cases/apitable.md) - Misrepresents AGPLv3
+- [Airbyte](./cases/airbyte.md) - Advertises as open source under ELv2.
+- [APITable](./cases/apitable.md) - Misrepresents AGPLv3.
 - [Bitwarden - Passwordless](./cases/bitwarden-passwordless.md) - Advertises as open source under proprietary license.
-- [Cal.com](./cases/cal-com.md) - Misrepresents AGPLv3
-- [Diffgram](./cases/diffgram.md) - Advertises as open source under a custom license preventing many freedoms
-- [Erxes](./cases/erxes.md) - Adds additional use limitation to AGPLv3
-- [FreeFileSync](./cases/free-file-sync.md) - Adds additional use limitation to GPLv3
-- [Nango](./cases/nango.md) - Advertises as open source under ELv2
-- [OpenReplay](./cases/openreplay.md) - Advertises as open source under ELv2
-- [Rock RMS](./cases/rock-rms.md) - Limits use and distribution audience 
-- [Runa Capital](./cases/runa-capital.md) - Misrepresents projects as open source for marketing
-- [Sentry](./cases/sentry.md) - Advertises as open source under FSL
-- [Tailwarden - Komiser](./cases/tailwarden-komiser.md) - Advertises as open source under ELv2
+- [Cal.com](./cases/cal-com.md) - Misrepresents AGPLv3.
+- [Diffgram](./cases/diffgram.md) - Advertises as open source under a custom license preventing many freedoms.
+- [Dokploy](./cases/dokploy.md) - Advertises as open source under a modified Apache license, preventing many freedoms.
+- [Erxes](./cases/erxes.md) - Adds additional use limitation to AGPLv3.
+- [FreeFileSync](./cases/free-file-sync.md) - Adds additional use limitation to GPLv3.
+- [Nango](./cases/nango.md) - Advertises as open source under ELv2.
+- [OpenReplay](./cases/openreplay.md) - Advertises as open source under ELv2.
+- [Rock RMS](./cases/rock-rms.md) - Limits use and distribution audience.
+- [Runa Capital](./cases/runa-capital.md) - Misrepresents projects as open source for marketing.
+- [Sentry](./cases/sentry.md) - Advertises as open source under FSL.
+- [Tailwarden - Komiser](./cases/tailwarden-komiser.md) - Advertises as open source under ELv2.
