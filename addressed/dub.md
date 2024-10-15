@@ -1,4 +1,4 @@
-### Dub
+# Dub
 
 [Dub](https://github.com/dubinc/dub) were licensed under an AGPLv3 license but had the following text in their docs:
 

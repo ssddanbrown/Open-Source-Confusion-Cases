@@ -1,4 +1,4 @@
-### Helicone
+# Helicone
 
 [Helicone](https://github.com/Helicone/helicone) advertised their project as open source via multiple sources including their repo, hacker news, and their website, but the project was under the commons clause.
 

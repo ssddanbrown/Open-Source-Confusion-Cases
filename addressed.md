@@ -14,3 +14,4 @@ The below list are projects that were addressed upon, or soon after, communicati
 - [Easy Redmine](./addressed/easy-redmine.md) - Mis-advertised as "100% open source"
 - [Helicone](./addressed/helicone.md) - Advertised as open source under the commons clause
 - [Metabase](./addressed/metabase.md) - Mis-communicated the copyleft nature of the AGPL
+- [Swiftwave](./addressed/swiftwave.md) - Advertised as open source with added non-open terms to the Apache 2.0 license
